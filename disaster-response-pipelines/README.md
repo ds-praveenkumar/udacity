@@ -10,7 +10,6 @@ Project folder description:
 ## Environment Setup
  * git clone <repo-url>
  * pip install requirements.txt
- * 
 
 
 ### Instructions:
