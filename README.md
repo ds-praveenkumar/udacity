@@ -8,7 +8,4 @@ Medium post [link](https://medium.com/@princerocker22/insights-from-sales-data-o
 
 ## Project 2 - Disaster Response Pipeline Project
 In this project we will building a machine learning Pipeline under the repo *disaster-response-pipelines*.
-Project setup description:
-/app: contains the webapp files
-/data: contains dataset
-/models: contains the saved models 
+
